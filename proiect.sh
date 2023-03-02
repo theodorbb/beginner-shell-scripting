@@ -1,5 +1,3 @@
-#Boata Cristian, Bragarea Ionut-Theodor
-#Grupa 1012
 #!/bin/bash
 
 x=9
